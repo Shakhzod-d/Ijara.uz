@@ -1,0 +1,10 @@
+.item {
+  border-radius: 4px;
+  box-shadow: 0 2px 12px #edeff0;
+  padding: 2rem;
+  border: 1px solid transparent;
+
+  display: flex;
+  flex-direction: column;
+  /* height: 15rem; */
+}
