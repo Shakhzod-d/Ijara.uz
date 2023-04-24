@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "username": "shirin",
+      "password": "1234"
+    },
+    {
+      "id": 1,
+      "username": "shirin1",
+      "password": "1234"
+    },
+    {
+      "id": 1,
+      "username": "shirin2",
+      "password": "1234"
+    },
+    {
+      "id": 1,
+      "username": "shirin3",
+      "password": "1234"
+    },
+    {
+      "id": 1,
+      "username": "shirin",
+      "password": "1234"
+    },
+    {
+      "id": 1,
+      "username": "shirin1",
+      "password": "1234"
+    },
+    {
+      "id": 1,
+      "username": "shirin2",
+      "password": "1234"
+    },
+    {
+      "id": 1,
+      "username": "shirin3",
+      "password": "1234"
+    }
+  ]
+}
